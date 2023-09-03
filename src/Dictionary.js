@@ -33,7 +33,7 @@ export default function Dictionary() {
           autoFocus={true}
           placeholder="Type any word"
         />
-        <input type="submit" />
+        <input type="submit" value="Define" />
       </form>
       <Results results={results} />
     </div>

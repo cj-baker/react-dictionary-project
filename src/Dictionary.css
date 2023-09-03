@@ -1,3 +1,20 @@
 form {
   text-align: center;
+  margin: 30px 0;
+}
+.Dictionary {
+  text-align: center;
+}
+.word {
+  color: #6c63ff;
+}
+.partOfSpeech {
+  color: gray;
+  font-style: italic;
+}
+.definition {
+  font-weight: 500;
+}
+.example {
+  font-style: italic;
 }
