@@ -1,4 +1,5 @@
 import books from "./books.png";
+import Dictionary from "./Dictionary";
 import "./App.css";
 
 function App() {
@@ -8,6 +9,10 @@ function App() {
         <img src={books} alt="books" className="header-image img-fluid" />
         <h1>Dictionary App</h1>
       </header>
+      <main>
+        <Dictionary />
+      </main>
+      <footer>Coded by Casey Baker</footer>
     </div>
   );
 }
