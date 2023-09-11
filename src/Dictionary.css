@@ -44,3 +44,8 @@ form {
 .Synonyms {
   margin-bottom: 20px;
 }
+
+.photo {
+  margin: 10px 0;
+  border-radius: 8px;
+}
