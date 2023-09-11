@@ -5,7 +5,7 @@ export default function Synonyms(props) {
   if (props.synonyms) {
     return (
       <div className="Synonyms">
-        Synonsyms:
+        Synonyms:
         {props.synonyms.map(function (synonyms, index) {
           return (
             <li key={index} className="synonyms">
