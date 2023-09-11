@@ -4,8 +4,31 @@ form {
 }
 .Dictionary {
   text-align: center;
+  margin: 30px 40px;
+}
+.Dictionary section {
+  background-color: #a59fff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 5px;
+  border-radius: 20px;
+  margin: 10px;
+}
+.input {
+  width: 90%;
+  margin: 0 auto;
+}
+.submit {
+  background-color: black;
+}
+
+.Results section {
+  text-align: left;
+  background-color: #cccccc;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 30px;
 }
 .word {
+  margin-right: 10px;
   color: #6c63ff;
 }
 .partOfSpeech {

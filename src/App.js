@@ -10,7 +10,7 @@ function App() {
         <h1>Dictionary App</h1>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultWord="search" />
       </main>
       <footer>Coded by Casey Baker</footer>
     </div>
